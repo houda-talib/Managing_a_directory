@@ -1,0 +1,9 @@
+# ninja log v5
+1	312	7060772020050186	CMakeFiles/Managing_a_directory.dir/main.c.obj	9fcab3d9d0ed23fd
+10	344	7060772020520421	CMakeFiles/Managing_a_directory.dir/contacts.c.obj	9a54f0053cde8f0f
+344	619	7060772023215282	Managing_a_directory.exe	5796bfa21ad89e9c
+61	331	7060787633599625	CMakeFiles/Managing_a_directory.dir/main.c.obj	9de59e73fb6f097b
+27	387	7060787634193362	CMakeFiles/Managing_a_directory.dir/contacts.c.obj	d0ba11d5ad5e721e
+388	613	7060787636319289	Managing_a_directory.exe	5796bfa21ad89e9c
+12	484	7060787872443669	CMakeFiles/Managing_a_directory.dir/main.c.obj	9de59e73fb6f097b
+485	1267	7060787878280484	Managing_a_directory.exe	5796bfa21ad89e9c

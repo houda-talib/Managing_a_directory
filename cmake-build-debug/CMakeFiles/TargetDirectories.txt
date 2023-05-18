@@ -1,0 +1,3 @@
+C:/Users/Houda/Desktop/Managing_a_directory/cmake-build-debug/CMakeFiles/Managing_a_directory.dir
+C:/Users/Houda/Desktop/Managing_a_directory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Houda/Desktop/Managing_a_directory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
